@@ -1,0 +1,11 @@
+.video-wrapper {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+video {
+  height: 300px;
+  width: 500px;
+  object-fit: cover;
+}
